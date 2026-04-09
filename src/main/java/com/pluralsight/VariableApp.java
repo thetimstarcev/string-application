@@ -2,6 +2,7 @@ package com.pluralsight;
 
 public class VariableApp {
     public static void main(String[] args) {
+
         String favoriteColor = "blue"; //Favorite color
         System.out.println("My favorite color is " + favoriteColor);
 
